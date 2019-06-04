@@ -1,0 +1,121 @@
+/* IDEA: colors: #5C5A60 #8C807D #B29388 #D69786 #FF9587  */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #5C5A62;
+  font-family: helvetica;
+}
+
+.heading{
+  color: #D69787;
+  text-align: center;
+  margin-top: 25%;
+  margin-bottom: 200px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+a {
+  color: #D69787;
+  text-decoration: none;
+  font-weight: 100;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #FF9587;
+}
+
+#profile {
+  border: 20px solid #B29388;
+  width:600px;
+  height:auto;
+}
+
+.subHeadings {
+  font-size: 50px;
+  color: #D69787;
+  font-weight: normal;
+  text-align: center;
+  clear: both;
+  margin-top: 10%
+}
+
+ul {
+  list-style: none;
+}
+
+.Liste {
+  font-size: 30px;
+  font-weight: bold;
+  color: #D69787;
+}
+
+.Inhalt {
+  font-size: 30px;
+  font-weight: 100;
+  color: #D69787;
+}
+
+.progress {
+  height: 12px;
+  background-color: #8C807D;
+  background-image: none;
+  box-shadow: none;
+}
+
+.progress-bar {
+  background-color: #FF9587;
+}
+
+.label {
+  font-weight: bold;
+  color: #8C807D;
+  font-size: 50px;
+}
+
+#tools {
+  height: 550px;
+  width: auto;
+}
+
+#softskills {
+  width: 1300px;
+  height: auto;
+  padding-bottom: 170px;
+}
+
+.thanks{
+  color: #D69787;
+  text-align: center;
+  margin-top: 25%;
+  margin-bottom: 5%;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#instagram:hover {
+  opacity: 0.5;
+}
+
+#software {
+  margin-top: -1em;
+  padding-top: 1em;
+}
+
+#character {
+  margin-top: -1em;
+  padding-top: 1em;
+}
+
+#skills {
+  margin-top: -2em;
+  padding-top: 2em;
+}
+
+#bars {
+  padding-bottom: 1em;
+}
